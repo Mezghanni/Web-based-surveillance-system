@@ -1,0 +1,7 @@
+===>ouvrir terminal pour l'execution :
+
+$ cd Bureau/pcd
+$ ./node_modules/nodemon/nodemon.js app.js 
+
+===>open a browser then type this link:
+localhost:3000

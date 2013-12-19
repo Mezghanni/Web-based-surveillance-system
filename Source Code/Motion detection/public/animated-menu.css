@@ -1,0 +1,43 @@
+
+ul{
+	margin:0;
+	padding:0;
+}
+
+
+
+ul li{
+	width:100px;
+	height:50px;
+	float:center;
+	color:#191919;
+	text-align:center;
+	overflow:hidden;
+}
+
+ul a{
+	color:#FFF;
+	text-decoration:none;
+}
+ul p h1{
+  color: white;
+padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+
+ul p{
+	padding:0px 5px;
+}
+
+	.subtext{
+		padding-top:15px;
+		color:white;
+	}
+
+/*Menu Color Classes*/
+.green{background:#6AA63B url('images/green-item-bg.jpg') top left no-repeat;}
+.yellow{background:#FBC700 url('images/yellow-item-bg.jpg') top left no-repeat;}
+.red{background:#D52100 url('images/red-item-bg.jpg') top left no-repeat;}
+.purple{background:#5122B4 url('images/purple-item-bg.jpg') top left no-repeat;}
+.blue{background:#0292C0 url('images/blue-item-bg.jpg') top left no-repeat;}
